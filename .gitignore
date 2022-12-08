@@ -1,0 +1,8 @@
+phonebook_backend/.dockerignore
+phonebook_backend/.env
+phonebook_backend/.eslintignore
+phonebook_backend/build
+phonebook_backend/Dockerfile
+phonebook_backend/fly.toml
+phonebook_backend/node_modules
+phonebook_frontend/node_modules
